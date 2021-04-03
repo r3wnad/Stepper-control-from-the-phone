@@ -1,5 +1,5 @@
 # Stepper-control-from-the-phone
-This is an Arduino based project that was implemented at gearbox in which I was a part of along side other collaborators. .
+This is an Arduino based project that was implemented at Gearbox in which I was a part of along side other collaborators. .
 
 ## Intoduction
 The objective od the mini-project was to control a stepper motor remotely through a smartphone using the Blynk application.
