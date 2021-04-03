@@ -52,26 +52,26 @@ IN3|D2
 IN4|D4
 
 ### Switching Power Supply Adapter
-Input: AC 110V/220V
-Output: DC 12V 10A
-Output Power: 120W
-Frequency: 50/60Hz
+Input: AC 110V/220V,
+Output: DC 12V 10A,
+Output Power: 120W,
+Frequency: 50/60Hz,
 Over-voltage Protection: 115%-135%
 
 **Pin-out**
 
 Input: live, neutral, earth
 
-Output: com. +V
+Output: com, +V
 
 ### LM2596 Step-down power module
-Input voltage :4V ~ 35V
-The output voltage : 1.23V ~ 30V
-Output Current :3A(Max)
-Conversion efficiency: 92%(MAX )
-Output ripple: <30mV
-Switching frequency: 150KHz
-Load Regulation: ± 0.5%
+Input voltage :4V ~ 35V,
+The output voltage : 1.23V ~ 30V,
+Output Current :3A(Max),
+Conversion efficiency: 92%(MAX),
+Output ripple: <30mV,
+Switching frequency: 150KHz,
+Load Regulation: ± 0.5%,
 Voltage Regulation: ± 0.5%
 
 **Pin-out**
