@@ -2,7 +2,7 @@
 This is an Arduino based project that was implemented at Gearbox in which I was a part of along side other collaborators. .
 
 ## Intoduction
-The objective od the mini-project was to control a stepper motor remotely through a smartphone using the Blynk application.
+The objective of the mini-project was to control a stepper motor remotely through a smartphone using the Blynk application.
 
 ## Components
 1 ESP8266 NodeMCU,
@@ -65,9 +65,9 @@ Input: live, neutral, earth
 Output: com, +V
 
 ### LM2596 Step-down power module
-Input voltage :4V ~ 35V,
-The output voltage : 1.23V ~ 30V,
-Output Current :3A(Max),
+Input voltage: 4V ~ 35V,
+The output voltage: 1.23V ~ 30V,
+Output Current: 3A(Max),
 Conversion efficiency: 92%(MAX),
 Output ripple: <30mV,
 Switching frequency: 150KHz,
